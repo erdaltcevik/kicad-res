@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Touchpad_guarded
+#
+DEF Touchpad_guarded TP 0 40 N N 1 F N
+F0 "TP" 0 120 50 H V C CNN
+F1 "Touchpad_guarded" 30 -120 50 H V C CNN
+F2 "" 0 400 50 H I C CNN
+F3 "" 0 400 50 H I C CNN
+DRAW
+S -50 -50 50 50 0 1 0 F
+P 6 0 1 0 -70 20 -70 70 70 70 70 -70 -70 -70 -70 -20 N
+X P 1 -100 0 50 R 50 50 1 1 P
+X G 2 100 0 30 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
