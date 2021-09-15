@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB_C_Receptacle_PowerOnly
+D Power-only Type-C Receptacle connector
+K usb universal serial bus type-C
+$ENDCMP
+#
+#End Doc Library

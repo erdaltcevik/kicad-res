@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC16F15325-xJQ
+D 8192W FLASH, 1024B SRAM, QFN-16
+K FLASH-Based 8-Bit CMOS Microcontroller XLP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16-L-F15325-45-Data-Sheet-40001865D.pdf
+$ENDCMP
+#
+$CMP PIC16LF15325-xJQ
+D 8192W FLASH, 1024B SRAM,  QFN-16
+K FLASH-Based 8-Bit CMOS Microcontroller XLP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16-L-F15325-45-Data-Sheet-40001865D.pdf
+$ENDCMP
+#
+#End Doc Library

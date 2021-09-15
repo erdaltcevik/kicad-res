@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAMC21E15A-M
+D SAM C21 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash, 4K SRAM, QFN32
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf
+$ENDCMP
+#
+$CMP ATSAMC21E16A-M
+D SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 64K Flash, 8K SRAM, QFN32
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf
+$ENDCMP
+#
+$CMP ATSAMC21E17A-M
+D SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 128K Flash, 16K SRAM, QFN32
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf
+$ENDCMP
+#
+$CMP ATSAMC21E18A-M
+D SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 256K Flash, 32K SRAM, QFN32
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf
+$ENDCMP
+#
+#End Doc Library

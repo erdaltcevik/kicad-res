@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TBU-DF-x-WH
+D TBU-DF Series, High-speed protector, overcurrent protection, DFN
+K overcurrent protection high speed surge blocker
+F https://www.bourns.com/docs/Product-Datasheets/tbu-df.pdf
+$ENDCMP
+#
+$CMP TISP4500H3BJ
+D 5A Ion, 400-800V Voff, Silicon Controlled Rectifier (Thyristor), TO-220
+K thyristor
+F https://www.bourns.com/docs/Product-Datasheets/TISP4500H3BJ.pdf
+$ENDCMP
+#
+#End Doc Library

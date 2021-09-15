@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS1H000-Q1
+D 40 V 1 Ohm Single Channel Smart High-side Switch
+K smart high-side switch
+F http://www.ti.com/lit/ds/symlink/tps1h000-q1.pdf
+$ENDCMP
+#
+$CMP TPS2112APW
+D Auto-switching Power Mux
+K 2-input 1-output Power Multiplexer with 84 mOhm internal switch
+F http://www.ti.com/lit/ds/symlink/tps2112a.pdf
+$ENDCMP
+#
+$CMP TPS2113APW
+D Auto-switching Power Mux
+K 2-input 1-output Power Multiplexer with 120 mOhm internal switch
+F http://www.ti.com/lit/ds/symlink/tps2112a.pdf
+$ENDCMP
+#
+$CMP TPS2H000-Q1
+D 40 V 1 Ohm Single Channel Smart High-side Switch
+K smart high-side switch
+F http://www.ti.com/lit/ds/symlink/tps1h000-q1.pdf
+$ENDCMP
+#
+$CMP TPS2H000AQ1
+D 40 V 1 Ohm Single Channel Smart High-side Switch
+K smart high-side switch
+F http://www.ti.com/lit/ds/symlink/tps1h000-q1.pdf
+$ENDCMP
+#
+#End Doc Library

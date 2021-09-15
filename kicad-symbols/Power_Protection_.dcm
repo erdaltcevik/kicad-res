@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TBU-DF-x-WH
+D TBU-DF Series, High-speed protector, overcurrent protection, DFN
+K overcurrent protection high speed surge blocker
+F https://www.bourns.com/docs/Product-Datasheets/tbu-df.pdf
+$ENDCMP
+#
+$CMP TISP4500H3BJ
+D Bidirectional Thyristor Overvoltage Protector, Vdrm=350 V, Vbo=500 V
+K bidirectional thyristor overvoltage protector
+F https://www.bourns.com/docs/Product-Datasheets/TISP4500H3BJ.pdf
+$ENDCMP
+#
+#End Doc Library

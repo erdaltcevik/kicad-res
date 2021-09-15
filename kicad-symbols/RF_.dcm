@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PE4259
+D 0-3 GHz, UltraCMOS RF Switch, SPDT, SC-70
+K RF switch SPDT
+F http://cdn.macom.com/datasheets/maadss0008.pdf
+$ENDCMP
+#
+$CMP SX1261
+D 150 MHz to 960MHz Low Power Long Range Transceiver, spreading factor from 6 to 12, LoRA, QFN-24
+K low-power lora transceiver
+F https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000HT76/7Nka9W5WgugoZe.xwIHJy6ebj1hW8UJ.USO_Pt2CLLo
+$ENDCMP
+#
+$CMP SX1262
+D 860 MHz to 1020 MHz Low Power Long Range Transceiver, spreading factor from 6 to 9, LoRA, QFN-28
+K low-power lora transceiver
+F https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000HT76/7Nka9W5WgugoZe.xwIHJy6ebj1hW8UJ.USO_Pt2CLLo
+$ENDCMP
+#
+#End Doc Library

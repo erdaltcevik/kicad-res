@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC18F45Q43-*|MP
+D 32K Flash, 2048B SRAM, 1024 EEPROM, QFN40
+K Flash-Based 8-Bit Microcontroller
+F /dvl/mcus/PIC18F25-45-55Q43-Data-Sheet-40002170D.pdf
+$ENDCMP
+#
+$CMP PIC18F46Q43-*|MP
+D 32K Flash, 2048B SRAM, 1024 EEPROM, QFN40
+K Flash-Based 8-Bit Microcontroller
+F /dvl/mcus/PIC18F25-45-55Q43-Data-Sheet-40002170D.pdf
+$ENDCMP
+#
+$CMP PIC18F47Q43-*|MP
+D 32K Flash, 2048B SRAM, 1024 EEPROM, QFN40
+K Flash-Based 8-Bit Microcontroller
+F /dvl/mcus/PIC18F25-45-55Q43-Data-Sheet-40002170D.pdf
+$ENDCMP
+#
+#End Doc Library

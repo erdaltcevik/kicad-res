@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EMI_Filter_LL_1243
+D EMI 2-inductor filter, pin-connections 1-2 and 4-3
+K EMI filter common-mode choke
+F ~
+$ENDCMP
+#
+$CMP L_small
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+#End Doc Library
