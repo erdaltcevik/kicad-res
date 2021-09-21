@@ -20,6 +20,16 @@ D Power symbol creates a global label with name "+V_ISO"
 K power-flag
 $ENDCMP
 #
+$CMP AVDD
+D Power symbol creates a global label with name "AVDD"
+K power-flag
+$ENDCMP
+#
+$CMP DVDD
+D Power symbol creates a global label with name "DVDD"
+K power-flag
+$ENDCMP
+#
 $CMP GND2
 D Power symbol creates a global label with name "GND2", ground 2
 K power-flag
