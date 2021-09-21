@@ -35,4 +35,9 @@ D Power symbol creates a global label with name "GND2", ground 2
 K power-flag
 $ENDCMP
 #
+$CMP MCU_VDD
+D Power symbol creates a global label with name "MCU_VDD"
+K power-flag
+$ENDCMP
+#
 #End Doc Library
